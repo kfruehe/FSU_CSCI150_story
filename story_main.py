@@ -76,7 +76,7 @@ def story():
     #copy-pasta provided below for your convenience (seriously, I can't make this any easier):  
     #add_line("") #no wild cards                                                                
     #add_line("{0}".format(var)) #with wild card
-
+    add_line("It was a brisk summer day, when all the sudden...")
     
     return("\n".join(lines))
 
